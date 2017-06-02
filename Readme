@@ -1,2 +1,6 @@
 # File-Upload
 To Upload a file to a local directory using Java-Servlets
+
+
+Keep in Mind:-
+The directory to whihc you want to save the file is in the web.xml file
